@@ -10,3 +10,5 @@ Open FiveM
 Load into your server
 Once you are fully loaded into the server, run the file
 Press INS to toggle the menu
+
+zip pass: romroblukondiscord
